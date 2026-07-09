@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "tcoEaBBryIo=",
+  "success": true,
+  "projectFilePath": "E:\\CodeBase\\通用型服务器代码\\MyServer弱联网HTTP版本\\弱联网游戏HTTP协议\\MyServer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\snowg\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\snowg\\.nuget\\packages\\pipelines.sockets.unofficial\\2.2.8\\pipelines.sockets.unofficial.2.2.8.nupkg.sha512",
+    "C:\\Users\\snowg\\.nuget\\packages\\stackexchange.redis\\2.8.24\\stackexchange.redis.2.8.24.nupkg.sha512",
+    "C:\\Users\\snowg\\.nuget\\packages\\system.io.pipelines\\5.0.1\\system.io.pipelines.5.0.1.nupkg.sha512",
+    "C:\\Users\\snowg\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\9.0.0\\microsoft.netcore.app.runtime.win-x64.9.0.0.nupkg.sha512",
+    "C:\\Users\\snowg\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\9.0.0\\microsoft.windowsdesktop.app.runtime.win-x64.9.0.0.nupkg.sha512",
+    "C:\\Users\\snowg\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\9.0.0\\microsoft.aspnetcore.app.runtime.win-x64.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
